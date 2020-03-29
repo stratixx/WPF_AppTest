@@ -1,3 +1,4 @@
 .vs/
-WpfAppTest/bin/
+WpfAppTest/bin/Release
+WpfAppTest/bin/Debug
 WpfAppTest/obj/

@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfAppTest"
         mc:Ignorable="d"
+        WindowState="Maximized"
         Title="IMAGO WOW" Height="600" Width="1200" Icon="imago_printer_producent_drukarek_cukierniczych-jasne.png" SizeToContent="WidthAndHeight" Background="{x:Null}" MinWidth="3">
     <Window.Resources>
         <Style x:Key="FocusVisual">
